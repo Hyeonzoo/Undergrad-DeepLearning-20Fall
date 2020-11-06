@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# pycharm
+.idea/
+.ipynb_checkpoints
+
+# MAC-stuff
+.DS_Store
+
 # C extensions
 *.so
 
